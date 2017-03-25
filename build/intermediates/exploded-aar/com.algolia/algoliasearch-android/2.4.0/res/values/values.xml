@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/redox/dev/Algolia/algoliasearch-client-android/algoliasearch/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">algoliasearch</string>
+</resources>

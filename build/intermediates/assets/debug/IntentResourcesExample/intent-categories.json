@@ -1,0 +1,20 @@
+
+{
+    "White-Board": {
+        "index": 1,
+        "intents_file": "popular.json"
+    },
+    "Black-Board": {
+        "index": 2,
+        "intents_file": "selfie.json"
+    },
+    "Power-Point": {
+        "index": 3,
+        "intents_file": "food.json"
+    },
+    "Index-Cards": {
+        "index": 4,
+        "intents_file": "social.json"
+
+    }
+}

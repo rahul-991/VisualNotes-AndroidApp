@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "Diagram(PP)": {
+        "synonyms": [
+          "Math Diagram","Science Diagram","Physics Diagram", "Computer Science Diagram"
+
+        ],
+        "unicode": "1f4ca",
+        "expression_id": 1,
+        "resource_name": "emoji_1f4ca"
+      }
+    },
+    {
+      "Equation(PP)": {
+        "synonyms": [
+          "Math Equation", "Science Equation", "Physics Equation", "Computer-Science Equation"
+        ],
+        "unicode": "1f523",
+        "expression_id": 2,
+        "resource_name": "emoji_1f523"
+      }
+    },
+    {
+      "Example(PP)": {
+        "synonyms": [
+          "Math Example Equation", "Physics Example Equation","Science Example Equation"
+        ],
+        "unicode": "1f4dd",
+        "expression_id": 3,
+        "resource_name": "emoji_1f4dd"
+      }
+    }
+
+  ]
+}
+

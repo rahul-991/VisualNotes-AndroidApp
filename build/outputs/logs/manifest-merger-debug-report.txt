@@ -1,0 +1,356 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:7:1-67:12
+	package
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:8:5-36
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:7:11-69
+	android:versionCode
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:10:5-67
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:21:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:4.7.0] C:\Users\Rahul\.android\build-cache\a97f3bb6b625ccb3161bd556c450499dae8a7f13\output\AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Rahul\.android\build-cache\d43d34cfa7d7726216bc000411e573d6ecebc2cf\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Rahul\.android\build-cache\684419ec953ecd20789f3ae4589636a549ea9a4c\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:21:5-67
+MERGED from [com.algolia:algoliasearch-android:2.4.0] C:\Users\Rahul\.android\build-cache\282a613d2ff3cd2d7e0b6c9ee98ad233e04d483d\output\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:11:5-79
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Rahul\.android\build-cache\d43d34cfa7d7726216bc000411e573d6ecebc2cf\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:12:22-68
+application
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:14:5-65:19
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:28:5-44:19
+MERGED from [com.mixpanel.android:mixpanel-android:4.7.0] C:\Users\Rahul\.android\build-cache\a97f3bb6b625ccb3161bd556c450499dae8a7f13\output\AndroidManifest.xml:44:5-124:19
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Rahul\.android\build-cache\ee8e283a45e0b46c744d466876d4b0f90ac8234d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Rahul\.android\build-cache\d43d34cfa7d7726216bc000411e573d6ecebc2cf\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Rahul\.android\build-cache\684419ec953ecd20789f3ae4589636a549ea9a4c\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Rahul\.android\build-cache\5ec9275253eabddadb455c3428f8a4ebaca9330d\output\AndroidManifest.xml:20:5-24:19
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:26:5-69:19
+MERGED from [com.android.support:preference-v7:23.0.0] C:\Users\Rahul\.android\build-cache\3faba219060732a79d2387cdfc67f659c305cab9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.github.johnkil.android-robototextview:robototextview:2.4.3] C:\Users\Rahul\.android\build-cache\9e0310da333c69b6eb5bbf88c3f77183ed028409\output\AndroidManifest.xml:8:5-20
+MERGED from [com.karumi:dexter:2.2.1] C:\Users\Rahul\.android\build-cache\b980c6be0827e74acb379bd4ab4fee31b6cd608e\output\AndroidManifest.xml:26:5-31:19
+MERGED from [com.android.support:design:23.1.1] C:\Users\Rahul\.android\build-cache\56b65863bc257f6484a59e840a5470efea98dc1c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Rahul\.android\build-cache\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Rahul\.android\build-cache\84214ef50728a45f9c6d13e14a21c7165184d813\output\AndroidManifest.xml:22:5-20
+MERGED from [com.algolia:algoliasearch-android:2.4.0] C:\Users\Rahul\.android\build-cache\282a613d2ff3cd2d7e0b6c9ee98ad233e04d483d\output\AndroidManifest.xml:35:5-38:19
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:30:9-35
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.7.0] C:\Users\Rahul\.android\build-cache\a97f3bb6b625ccb3161bd556c450499dae8a7f13\output\AndroidManifest.xml:44:18-44
+	android:allowBackup
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:17:9-41
+	android:largeHeap
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:29:9-33
+	android:theme
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:15:9-43
+meta-data#io.krumbs.sdk.APPLICATION_ID
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:20:9-22:56
+	android:value
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:22:13-53
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:21:13-56
+meta-data#io.krumbs.sdk.CLIENT_KEY
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:23:9-25:60
+	android:value
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:25:13-57
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:24:13-52
+activity#io.krumbs.sdk.starter.MainActivity
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:27:9-31:20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:28:13-41
+activity#io.krumbs.sdk.starter.Register
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:32:9-36:20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:34:13-60
+	android:theme
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:33:13-37
+activity#io.krumbs.sdk.starter.Splashscreen
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:37:9-45:20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:38:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:43:27-74
+activity#io.krumbs.sdk.starter.SignUp
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:46:9-55:20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:48:13-37
+	android:theme
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:47:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:50:13-54:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:53:27-73
+activity#io.krumbs.sdk.starter.View_Pictures
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:56:9-60:20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:58:13-66
+	android:theme
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:59:13-63
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:57:13-42
+activity#io.krumbs.sdk.starter.ViewSelectedPicture
+ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:61:9-64:20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:63:13-73
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:62:13-48
+uses-sdk
+INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mixpanel.android:mixpanel-android:4.7.0] C:\Users\Rahul\.android\build-cache\a97f3bb6b625ccb3161bd556c450499dae8a7f13\output\AndroidManifest.xml:11:5-14:42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Rahul\.android\build-cache\ee8e283a45e0b46c744d466876d4b0f90ac8234d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Rahul\.android\build-cache\d43d34cfa7d7726216bc000411e573d6ecebc2cf\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Rahul\.android\build-cache\684419ec953ecd20789f3ae4589636a549ea9a4c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Rahul\.android\build-cache\0f5858508426e6d4529102b038c75d6a99543214\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Rahul\.android\build-cache\5ec9275253eabddadb455c3428f8a4ebaca9330d\output\AndroidManifest.xml:18:5-42
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:preference-v7:23.0.0] C:\Users\Rahul\.android\build-cache\3faba219060732a79d2387cdfc67f659c305cab9\output\AndroidManifest.xml:7:5-43
+MERGED from [ch.acra:acra:4.7.0] C:\Users\Rahul\.android\build-cache\44e64f9101c242170e9bd577c44630dba9228f60\output\AndroidManifest.xml:37:5-72
+MERGED from [com.github.johnkil.android-robototextview:robototextview:2.4.3] C:\Users\Rahul\.android\build-cache\9e0310da333c69b6eb5bbf88c3f77183ed028409\output\AndroidManifest.xml:6:5-43
+MERGED from [com.karumi:dexter:2.2.1] C:\Users\Rahul\.android\build-cache\b980c6be0827e74acb379bd4ab4fee31b6cd608e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:23.1.1] C:\Users\Rahul\.android\build-cache\56b65863bc257f6484a59e840a5470efea98dc1c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Rahul\.android\build-cache\7e82ef22f8ce92c2a0cd9d174e9a463327b46fc6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Rahul\.android\build-cache\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Rahul\.android\build-cache\84214ef50728a45f9c6d13e14a21c7165184d813\output\AndroidManifest.xml:20:5-43
+MERGED from [com.algolia:algoliasearch-android:2.4.0] C:\Users\Rahul\.android\build-cache\282a613d2ff3cd2d7e0b6c9ee98ad233e04d483d\output\AndroidManifest.xml:29:5-31:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.7.0] C:\Users\Rahul\.android\build-cache\a97f3bb6b625ccb3161bd556c450499dae8a7f13\output\AndroidManifest.xml:14:9-39
+	android:minSdkVersion
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:12:5-65
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:14:5-81
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:15:5-71
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.ACCESS_GPS
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:16:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:18:5-79
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:20:22-65
+uses-feature#android.hardware.camera
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:23:5-60
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:25:9-57
+meta-data#com.mixpanel.android.MPConfig.FlushInterval
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:31:9-33:34
+	android:value
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:33:13-31
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:32:13-71
+meta-data#com.mixpanel.android.MPConfig.EnableDebugLogging
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:35:13-76
+meta-data#com.google.android.geo.API_KEY
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:37:9-39:54
+	android:value
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:39:13-51
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:38:13-58
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:41:9-43:38
+	android:enabled
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:42:13-93
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Rahul\.android\build-cache\d43d34cfa7d7726216bc000411e573d6ecebc2cf\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Rahul\.android\build-cache\d43d34cfa7d7726216bc000411e573d6ecebc2cf\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Rahul\.android\build-cache\d43d34cfa7d7726216bc000411e573d6ecebc2cf\output\AndroidManifest.xml:24:8-31
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Rahul\.android\build-cache\684419ec953ecd20789f3ae4589636a549ea9a4c\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Rahul\.android\build-cache\684419ec953ecd20789f3ae4589636a549ea9a4c\output\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Rahul\.android\build-cache\843e0980cc85216c9c37fd718c0be6f3f7f1ae36\output\AndroidManifest.xml:42:11-82
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Rahul\.android\build-cache\5ec9275253eabddadb455c3428f8a4ebaca9330d\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Rahul\.android\build-cache\5ec9275253eabddadb455c3428f8a4ebaca9330d\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Rahul\.android\build-cache\5ec9275253eabddadb455c3428f8a4ebaca9330d\output\AndroidManifest.xml:22:13-58
+supports-screens
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:11:5-16:40
+	android:largeScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:16:9-37
+	android:anyDensity
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.microphone
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:24:19-61
+activity#net.sourceforge.opencamera.Widgets.TakePhoto
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:37:13-50
+	android:label
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:36:13-47
+	android:excludeFromRecents
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:34:13-46
+	android:configChanges
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:33:13-74
+	android:icon
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:35:13-60
+	android:taskAffinity
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:32:13-72
+receiver#net.sourceforge.opencamera.Widgets.MyWidgetProvider
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:41:9-56:20
+	android:label
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:44:13-45
+	android:icon
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:42:13-79
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:45:13-47:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:46:25-81
+meta-data#android.appwidget.provider
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:53:13-55:55
+	android:resource
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:55:17-52
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:54:17-58
+receiver#net.sourceforge.opencamera.Widgets.MyWidgetProviderTakePhoto
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:57:9-68:20
+	android:label
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:60:13-47
+	android:icon
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:59:13-60
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\Users\Rahul\Desktop\kfin\kfin\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:58:13-88
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:2.2.1] C:\Users\Rahul\.android\build-cache\b980c6be0827e74acb379bd4ab4fee31b6cd608e\output\AndroidManifest.xml:27:9-30:56
+	android:launchMode
+		ADDED from [com.karumi:dexter:2.2.1] C:\Users\Rahul\.android\build-cache\b980c6be0827e74acb379bd4ab4fee31b6cd608e\output\AndroidManifest.xml:29:13-44
+	android:theme
+		ADDED from [com.karumi:dexter:2.2.1] C:\Users\Rahul\.android\build-cache\b980c6be0827e74acb379bd4ab4fee31b6cd608e\output\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.karumi:dexter:2.2.1] C:\Users\Rahul\.android\build-cache\b980c6be0827e74acb379bd4ab4fee31b6cd608e\output\AndroidManifest.xml:28:13-60

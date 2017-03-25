@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\flyin.xml",
+        "source": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\flyin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\context_switch_slide_left.xml",
+        "source": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\context_switch_slide_left.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_out.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\anim\\com_mixpanel_android_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_slide_down.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\a97f3bb6b625ccb3161bd556c450499dae8a7f13\\output\\res\\anim\\com_mixpanel_android_slide_down.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_slide_down.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\anim\\com_mixpanel_android_slide_down.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\flyin.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\flyin.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\56b65863bc257f6484a59e840a5470efea98dc1c\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\56b65863bc257f6484a59e840a5470efea98dc1c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\56b65863bc257f6484a59e840a5470efea98dc1c\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_out.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\a97f3bb6b625ccb3161bd556c450499dae8a7f13\\output\\res\\anim\\com_mixpanel_android_fade_out.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_in.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\a97f3bb6b625ccb3161bd556c450499dae8a7f13\\output\\res\\anim\\com_mixpanel_android_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\context_switch_slide_left.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\anim\\context_switch_slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\56b65863bc257f6484a59e840a5470efea98dc1c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_in.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\anim\\com_mixpanel_android_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rahul\\Desktop\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Rahul\\.android\\build-cache\\8d02c55a038b5e6b3acf8ee0c945bca46b920ad4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\kfin\\kfin\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    }
+]
